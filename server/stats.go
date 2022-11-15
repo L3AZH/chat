@@ -13,8 +13,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/tinode/chat/server/logs"
-	"github.com/tinode/chat/server/store"
+	"github.com/l3azh/chat/server/logs"
+	"github.com/l3azh/chat/server/store"
 )
 
 // A simple implementation of histogram expvar.Var.

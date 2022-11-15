@@ -1,4 +1,4 @@
-module github.com/tinode/chat
+module github.com/l3azh/chat
 
 go 1.16
 
