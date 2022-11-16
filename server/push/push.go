@@ -6,7 +6,7 @@ import (
 	"errors"
 	"time"
 
-	t "github.com/tinode/chat/server/store/types"
+	t "github.com/l3azh/chat/server/store/types"
 )
 
 // Push actions

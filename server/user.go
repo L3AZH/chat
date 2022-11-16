@@ -4,11 +4,11 @@ import (
 	"container/heap"
 	"time"
 
-	"github.com/tinode/chat/server/auth"
-	"github.com/tinode/chat/server/logs"
-	"github.com/tinode/chat/server/push"
-	"github.com/tinode/chat/server/store"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/l3azh/chat/server/auth"
+	"github.com/l3azh/chat/server/logs"
+	"github.com/l3azh/chat/server/push"
+	"github.com/l3azh/chat/server/store"
+	"github.com/l3azh/chat/server/store/types"
 )
 
 const (

@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/tinode/chat/server/logs"
-	"github.com/tinode/chat/server/store"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/l3azh/chat/server/logs"
+	"github.com/l3azh/chat/server/store"
+	"github.com/l3azh/chat/server/store/types"
 )
 
 // presParams defines parameters for creating a presence notification.

@@ -14,11 +14,11 @@ import (
 	legacy "firebase.google.com/go/messaging"
 	fcmv1 "google.golang.org/api/fcm/v1"
 
-	"github.com/tinode/chat/server/logs"
-	"github.com/tinode/chat/server/push"
-	"github.com/tinode/chat/server/push/common"
-	"github.com/tinode/chat/server/store"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/l3azh/chat/server/logs"
+	"github.com/l3azh/chat/server/push"
+	"github.com/l3azh/chat/server/push/common"
+	"github.com/l3azh/chat/server/store"
+	"github.com/l3azh/chat/server/store/types"
 
 	"golang.org/x/oauth2/google"
 	"google.golang.org/api/option"
